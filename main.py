@@ -11,5 +11,5 @@ elif unit=="F" or unit=="f":
     c = float((Temp-32)*5/9)
     print(f"{Temp}° in Fahrenheit is equivalent to {c}° Celsius.")
 else:
-  print(f"Invalid unit(bad).")
+  print(f"Invalid unit(A).")
   
